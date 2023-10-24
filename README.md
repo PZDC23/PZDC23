@@ -17,3 +17,32 @@
 </div>
 
 ### :skull: Обо мне:
+- :clown_face: что-то про меня
+- :space_invader: еще один фактик
+- :dizzy: зачем я это делаю?
+
+### :alien: Язык и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+  <img spc="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> 
+</div>
+
+### :scream: Достижения :
+
+<div> 
+  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=PZDC23" alt=""/> 
+</div>
+
+### :keyboard: Наиболее используемые языки : 
+<div> 
+  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=PZDC23" alt=""/> 
+</div>
+
+### :bar_chart: Cтатистика активности: 
+<div> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PZDC23&theme=github-compact" alt=""/>
+</div>
