@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="https://vk.com/1sd88">
+  <a href="https://vk.com/id430072814">
     <img src="https://img.shields.io/badge/VK-blue?style-for-the-badge&logo-VK&logoColor-white" alt="VX Badge"/>
   </a>
   
