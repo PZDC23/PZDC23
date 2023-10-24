@@ -34,7 +34,7 @@
 ### :scream: Достижения :
 
 <div> 
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=PZDC23" alt=""/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=PZDC23-ma&theme=onedark" alt=""/> 
 </div>
 
 ### :keyboard: Наиболее используемые языки : 
