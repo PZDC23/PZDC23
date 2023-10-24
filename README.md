@@ -15,3 +15,5 @@
 <div id="viewprof" align="center">
   <h1>Профиль на GitHub</h1>
 </div>
+
+### :skull: Обо мне:
